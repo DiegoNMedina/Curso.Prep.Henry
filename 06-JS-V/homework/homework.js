@@ -36,7 +36,7 @@ function agregarStringInvertida() {
     //  }
 
   class Persona {
-    constructor(/*Escribir los argumentos que recibe el constructor*/) {
+    constructor(Nombre, Apellido, Edad, Domicilio/*Escribir los argumentos que recibe el constructor*/) {
       // Crea el constructor:
 
     }
